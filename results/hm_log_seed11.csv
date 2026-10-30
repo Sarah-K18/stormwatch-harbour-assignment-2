@@ -1,0 +1,31 @@
+tick,raw,accepted,action,reason
+60,hold_ship(6),True,hold_ship,
+80,hold_ship(3),False,,ship 3 is not listed as waiting in the report
+100,hold_ship(3),False,,ship 3 is not listed as waiting in the report
+120,hold_ship(3),False,,ship 3 is not listed as waiting in the report
+130,hold_ship(2),False,,ship 2 is not listed as waiting in the report
+140,hold_ship(2),False,,ship 2 is not listed as waiting in the report
+160,hold_ship(3),False,,ship 3 is not listed as waiting in the report
+180,hold_ship(6),False,,ship 6 is not listed as waiting in the report
+200,hold_ship(12),True,hold_ship,
+220,hold_ship(12),True,hold_ship,
+240,hold_ship(12),True,hold_ship,
+260,hold_ship(12),True,hold_ship,
+280,hold_ship(12),True,hold_ship,
+300,hold_ship(12),True,hold_ship,
+320,hold_ship(10),False,,ship 10 is not listed as waiting in the report
+340,hold_ship(12),True,hold_ship,
+358,hold_ship(10),False,,ship 10 is not listed as waiting in the report
+360,hold_ship(10),False,,ship 10 is not listed as waiting in the report
+380,hold_ship(10),False,,ship 10 is not listed as waiting in the report
+400,hold_ship(10),False,,ship 10 is not listed as waiting in the report
+420,hold_ship(10),False,,ship 10 is not listed as waiting in the report
+440,hold_ship(10),False,,ship 10 is not listed as waiting in the report
+460,hold_ship(14),False,,ship 14 is not listed as waiting in the report
+480,hold_ship(14),False,,ship 14 is not listed as waiting in the report
+500,hold_ship(14),False,,ship 14 is not listed as waiting in the report
+520,hold_ship(14),False,,ship 14 is not listed as waiting in the report
+534,hold_ship(14),False,,ship 14 is not listed as waiting in the report
+540,hold_ship(14),False,,ship 14 is not listed as waiting in the report
+560,hold_ship(14),False,,ship 14 is not listed as waiting in the report
+580,hold_ship(16),False,,ship 16 is not listed as waiting in the report
